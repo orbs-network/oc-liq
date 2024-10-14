@@ -13,6 +13,8 @@
     "@defi.org/web3-candies": "^4.20.14",
     "@uniswap/uniswapx-sdk": "^2.0.1-alpha.10",
     "bcrypt": "^5.1.1",
+    "bignumber.js": "^9.1.2",
+    "binance": "^2.13.3",
     "chalk": "^5.3.0",
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
